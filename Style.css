@@ -1,0 +1,192 @@
+body{
+    background-color:grey;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#container{
+height: 1400px;
+width: 1400px;
+width: 80%;
+}
+
+header{
+position: absolute;
+background-color: black;
+color: white;
+height: 80px;
+width: 1349px;
+top:0px;
+left: 0px;
+right: 0px;
+bottom: 0px;
+border-top: black;
+border-bottom: black;
+}
+
+h1{
+text-align: center;    
+}
+
+nav{
+position: absolute;
+background-color: grey;
+height: 1000px;
+width: 199px;
+top: 90px;
+left: 0px;
+right: 0px;
+bottom: 0px;
+margin: 0px;
+border: 10px solid black;
+}
+.a1{
+position: absolute;
+text-align: center;
+background-color: mediumspringgreen;
+top: 80px;
+left: 10px;
+right: 10px;
+bottom: 890px;
+border: solid 5px black;
+}
+
+Section{
+position: absolute;
+font-family: Arial, Helvetica, sans-serif;
+background-color: grey;
+height: 1000px;
+width: 1791;
+top: 90px;
+left: 219px;
+right: 0px;
+bottom: 0px;
+margin: 0px auto;
+border: 10px solid black;
+}
+
+.img1{
+position: absolute;
+top: 650px;
+left: 350px;
+right: 0px;
+bottom: 0px;
+border: solid 10px black;
+}
+
+.img2{
+position: absolute;
+top: -270px;
+left: 290px;
+right: 0px;
+bottom: 0px;
+border: solid 10px black;
+}
+
+h2{
+    text-align: center;
+}
+
+p{
+text-align: center;
+}
+
+.p1{
+position: absolute;
+text-align: center;
+top: 70px;
+left: 60px;
+right: 30px;
+}
+
+.p2{
+position: absolute;
+text-align: center;
+top: 550px;
+left: 60px;
+right: 30px;
+}
+
+.p3{
+position: absolute;
+text-align: center;
+top: 900px;
+left: 60px;
+right: 30px;
+}
+
+article{
+    position: absolute;
+background-color:grey;
+color: black;
+height: 300px;
+width: 1329px;
+top: 1100px;
+left:0px;
+right: 0px;
+bottom: 0px;
+margin: 0px auto;
+border: 10px solid black;
+}
+
+.p4{
+position: absolute;
+text-align: center;
+top: 20px;
+left: 0px;
+right: 0px;
+bottom: 0px;
+}
+
+.p5{
+position: absolute;
+text-align: center;
+top: 150px;
+left: 0px;
+right: 0px;
+bottom: 0px;
+}
+
+.p6{
+position: absolute;
+text-align: center;
+top: 240px;
+left: 0px;
+right: 0px;
+bottom: 0px;
+background-size: top 10px ;
+left: 500px;
+right: 500px;
+bottom: 0px;
+background-color: mediumspringgreen;
+border: solid 5px black;
+}
+
+.img3{
+position: absolute;
+height: 150px;
+width: 170px;
+top: 65px;
+left: 20px;
+right: 0px;
+bottom: 0px;
+border: solid black;
+}
+
+footer{
+    position: absolute;
+text-align: justify;
+background-color: white;
+color: black;
+height: 50px;
+width: 1329px;
+top: 1400px;
+left: 0px;
+right: 0px;
+bottom: 200px;
+margin: 0px auto;
+border: 10px solid black;
+}
+
+
+
+
